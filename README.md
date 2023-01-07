@@ -1,6 +1,6 @@
 # treinando_css
 <h1 align="center">
- Treine.me
+ Treinando CSS
 </h1>
 <p align="center">
   <img alt="" src="https://user-images.githubusercontent.com/62262162/211140970-b03db1f5-81fe-4dad-9d00-a9714f95b199.jpg" width="100%">
