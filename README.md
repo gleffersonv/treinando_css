@@ -40,12 +40,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a href="https://gleffersonv.github.io/treine.me">Decodificador de Texto</a>
+Live Preview: <a href="https://gleffersonv.github.io/treinando_css/">Decodificador de Texto</a>
 
 ## 🎨 Inspiração:
 
 Explorer Rockeseat: Challenge <br>
-Figma: <a href="https://www.figma.com/file/zQcSQuGYKNPYZsyQMMqjca/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=VwTqED6ntngX9Iq9-0"> Layout</a>
+Figma: <a href="https://www.figma.com/file/3VF1sqIHInia1jDV9mzZyz/Explorer-Stage-03-Projeto-03-(Copy)?t=AckyRIWXTQ0k0lHx-0"> Layout</a>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
